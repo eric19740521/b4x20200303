@@ -1,7 +1,5 @@
 # b4x20200303
-B4X實驗: 如何 ?? 製作跨平台的可視元件 UI View Lib (B4J/B4A)
-
-B4X實驗: 如何 ?? 製作跨平台的可視元件 UI View Lib (B4J/B4A)
+ 
 參考資料:
 https://www.b4x.com/b4j/help/jxui.html
 
